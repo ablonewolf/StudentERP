@@ -1,0 +1,52 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: fit-content;
+    padding: 25px;
+    
+  }
+  #addButton {
+    margin-bottom: 30px;
+  }
+  #modalCard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-top: auto;
+    margin-bottom: auto;
+    width: fit-content;
+    padding: 25px;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    margin: 2px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: fit-content;
+    font-size: 18px;
+  }
+
+  .profile-text {
+    font-size: 20px;
+    padding: 5px;
+    text-align: left;
+  }
+
+  .buttons {
+    text-align: right;
+    margin: 10px;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }

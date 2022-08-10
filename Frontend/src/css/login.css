@@ -1,0 +1,17 @@
+button {
+    width: fit-content;
+    
+}
+h1 {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+#loginButton {
+    margin-left: 45%;
+    margin-top: 5px;
+}
+.loginh3 {
+    padding: 5px;
+    margin-bottom: 5px;
+}
